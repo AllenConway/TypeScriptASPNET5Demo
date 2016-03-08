@@ -1,0 +1,10 @@
+{
+  "name": "aspnet",
+  "private": true,
+  "dependencies": {
+    "jquery": "2.1.4"
+  },
+  "resolutions": {
+    "jquery": "2.2.0"
+  }
+}
